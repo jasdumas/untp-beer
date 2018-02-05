@@ -1,5 +1,5 @@
 ---
-title: "Exploratory & sentiment analysis of beer tweets from Untappd.com on Twitter"
+title: "Exploratory & sentiment analysis of beer tweets from Untappd on Twitter"
 layout: post
 tags: [r, rstats, beer-analytics]
 output: 
